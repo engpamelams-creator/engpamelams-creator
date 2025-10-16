@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-🎓 Graduanda em Engenharia de Software | 💻 Desenvolvedora Full Stack em Formação
+🎓 Graduanda em Engenharia de Software | 💻 Desenvolvedora Front-end em Formação
 <br/>
 <p align="center">
   ✨ *“Transformando ideias em experiências digitais com código e criatividade.”* ✨
@@ -29,7 +29,7 @@
 
 ## 🧠 Sobre mim
 
-🎯 Desenvolvedora Full Stack em Busca de Estágio / Oportunidade
+🎯 Desenvolvedora Front-end em Busca de Estágio ou Dev Junior / Oportunidade
 Olá! Sou Pamela M.S., estudante de Engenharia de Software e Desenvolvedora Full Stack em formação (27 anos), em busca ativa de uma oportunidade no mercado.
 
 Minha meta é aplicar e expandir minha experiência em desenvolvimento web e soluções Full Stack em projetos que exigem alta performance e foco em resultados.
