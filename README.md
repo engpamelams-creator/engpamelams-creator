@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://devpamelams.com.br"><img alt="Portfólio" src="https://img.shields.io/badge/Portfólio-333333?style=for-the-badge&logo=About.me&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/p%C3%A2mela-menezes-santana-b450b237b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="www.linkedin.com/in/dev-pamelams/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:eng.pamelams@gmail.com"><img alt="E-mail" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 <p align="center">
@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-🎓 Graduanda em Engenharia de Software | 💻 Desenvolvedora Front-end em Formação
+🎓 Graduanda em Engenharia de Software | 💻 Desenvolvedora Full Stack em Formação
 <br/>
 <p align="center">
   ✨ *“Transformando ideias em experiências digitais com código e criatividade.”* ✨
@@ -28,15 +28,16 @@
 ---
 
 ## 🧠 Sobre mim
+🎯 Desenvolvedora Full Stack | Em busca de Estágio ou Oportunidade Júnior
 
-🎯 Desenvolvedora Front-end em Busca de Estágio ou Dev Junior / Oportunidade
-Olá! Sou Pamela M.S., estudante de Engenharia de Software e Desenvolvedora Full Stack em formação (27 anos), em busca ativa de uma oportunidade no mercado.
+Olá! Sou Pamela M.S., Desenvolvedora Full Stack em formação e estudante de Engenharia de Software (27 anos), em busca ativa de uma oportunidade para colocar em prática minhas habilidades e crescer profissionalmente.
 
-Minha meta é aplicar e expandir minha experiência em desenvolvimento web e soluções Full Stack em projetos que exigem alta performance e foco em resultados.
+Tenho experiência com HTML5, CSS3, JavaScript, React, TypeScript, Angular, Node.js, SQL, Python e N8N, desenvolvendo soluções completas — do front-end ao back-end — sempre com foco em performance, acessibilidade e experiência do usuário.
 
-Sou proativa, movida pela paixão em aprender e estou pronta para contribuir imediatamente com o crescimento e a inovação da sua equipe.
+Sou proativa, comunicativa e apaixonada por tecnologia, movida pela vontade de aprender, inovar e contribuir com o sucesso da equipe.
+Busco constantemente aperfeiçoar minhas habilidades técnicas e criativas para construir experiências digitais modernas, eficientes e de alto impacto.
 
-Busco constantemente aprimorar minhas habilidades para construir experiências digitais incríveis e de alto impacto!
+🚀 Pronta para colaborar com times que valorizam inovação, aprendizado contínuo e propósito.
 
 ---
 
