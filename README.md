@@ -103,17 +103,6 @@ Sou **Desenvolvedora Full Stack** com foco em **Python (Django, FastAPI, Flask)*
 - Criando **fluxos de automação com IA & n8n**, reduzindo tarefas manuais e aumentando eficiência.  
 - Ajudando na organização de código, padrões, documentação e boas práticas em equipe.  
 
----
-
-## 📊 Estatísticas do GitHub
-
-[![Estatísticas do GitHub da Pamela](https://github-readme-stats.vercel.app/api?username=engpamelams-creator&show_icons=true&theme=tokyonight&locale=pt-br&include_all_commits=true&count_private=true)](https://github.com/engpamelams-creator)
-
-[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=engpamelams-creator&layout=compact&theme=tokyonight&langs_count=8)](https://github.com/engpamelams-creator?tab=repositories)
-
-
-
----
 
 <p align="center">
   💜 Sempre aberta a conexões, colaborações e novos desafios em tecnologia.
