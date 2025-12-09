@@ -38,8 +38,8 @@
 Sou **Desenvolvedora Full Stack** com foco em **Python (Django, FastAPI, Flask)**, **C#/.NET**, **PHP/Laravel** e **JavaScript/TypeScript**, construindo aplicações modernas, performáticas e escaláveis – do desenho da arquitetura ao front-end final.
 
 - 🎓 Graduanda em **Análise e Desenvolvimento de Sistemas**  
-- 🧩 Background em **Psicologia / Coordenação ABA**, o que fortalece minha visão de pessoas, produto e experiência do usuário  
-- 🤖 Forte atuação com **IA & Automação** (n8n, LLMs, integrações inteligentes)  
+- 🧩 Background em **Psicologia / Coordenação ABA**, o que fortalece minha visão de pessoas, produto e UX  
+- 🤖 Atuação forte em **IA & Automação** (n8n, LLMs, integrações inteligentes)  
 - 🌐 Apaixonada por usabilidade, acessibilidade e código limpo  
 - 🚀 Em busca de oportunidades em **Full Stack, Back-End, C#/.NET, Python e IA & Automação**
 
@@ -96,25 +96,12 @@ Sou **Desenvolvedora Full Stack** com foco em **Python (Django, FastAPI, Flask)*
 
 ---
 
-## 🌟 Projetos em destaque
+## ⚙️ Como posso contribuir com o seu time
 
-- 🔐 **Organiza.Ai** – Sistema completo de controle financeiro pessoal e empresarial com automações inteligentes.  
-  _C#/.NET 8 • React • Vite • Supabase_  
-  👉 [Repositório](https://github.com/engpamelams-creator/organiza_ai_projetoc-.git)
-
-- 🤖 **Jasper Spencer – Assistente de IA Local**  
-  _Python • FastAPI • Ollama • Agents • HTML/CSS/JS_  
-  👉 [Repositório](https://github.com/engpamelams-creator/ia_jasper_spencer-chat-strands-ollama)
-
-- 💬 **Automação WhatsApp com n8n + IA**  
-  Fluxo inteligente de atendimento com integração a IA e captura de leads.  
-  👉 [Repositório](https://github.com/engpamelams-creator/N8N_Workflows_Projects-.git)
-
-- 🧠 **Sites para Psicólogas (Amanda & Ellen)**  
-  _React, TypeScript, Tailwind, Angular_  
-  👉 [Amanda](https://www.psicoamandaoliveira.com.br) • [Ellen](https://psiellenmarques.com.br/)
-
-> Para ver todos os projetos: acesse meu portfólio em **https://devpamelams.com.br**.
+- Desenvolvendo **APIs e back-ends** em Python e C#/.NET com foco em performance, segurança e escalabilidade.  
+- Construindo **interfaces modernas** com React/Angular/Vue, alinhadas a boas práticas de UX/UI.  
+- Criando **fluxos de automação com IA & n8n**, reduzindo tarefas manuais e aumentando eficiência.  
+- Ajudando na organização de código, padrões, documentação e boas práticas em equipe.  
 
 ---
 
