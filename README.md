@@ -105,21 +105,23 @@ Sou **Desenvolvedora Full Stack** com foco em **Python (Django, FastAPI, Flask)*
 
 ---
 
+
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img 
-    alt="GitHub Stats da Pamela" 
-    src="https://github-readme-stats.vercel.app/api?username=engpamelams-creator&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+  <img
+    alt="Estatísticas do GitHub por Pamela"
+    src="https://github-readme-stats.vercel.app/api?username=engpamelams-creator&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
   />
 </p>
 
 <p align="center">
-  <img 
-    alt="Top Languages da Pamela" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=engpamelams-creator&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8"
+  <img
+    alt="Principais linguagens da Pamela"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=engpamelams-creator&layout=compact&theme=tokyonight&langs_count=8"
   />
 </p>
+
 
 ---
 
