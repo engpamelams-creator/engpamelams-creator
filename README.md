@@ -1,7 +1,6 @@
 <div align="center">
-  <img src="./assets/banner-pamela-ms.png" alt="Banner Pamela M.S - Full Stack Developer" width="100%" />
+  <img width="1188" height="297" alt="art github" src="https://github.com/user-attachments/assets/01706bd9-2ede-4d8c-8336-361f60def11e" />
 </div>
-
 ---
 
 <div align="center">
