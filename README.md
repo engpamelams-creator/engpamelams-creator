@@ -37,7 +37,7 @@ Outro no futuro, construindo automação, IA e soluções que realmente entregam
   <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
----
+
 
 ## 🧠 Sobre mim
 
@@ -89,15 +89,16 @@ Atualmente busco oportunidades em **Full Stack • Back-End • Python • C#/.N
 
 
 
-## ⚡ Destaques do momento
+## ⚡ Destaques do Momento
 
 ### 🧩 O que eu entrego
-✔ Desenvolvimento Full Stack moderno  
-✔ Arquitetura limpa e escalável  
-✔ Integrações e APIs robustas  
-✔ Automação com IA e n8n  
-✔ UX/UI funcional e centrada no usuário  
 
+✔ Desenvolvimento Full Stack moderno, sólido e escalável  
+✔ Arquitetura limpa, padrões profissionais e código de alta manutenção  
+✔ Integrações avançadas e APIs performáticas para produtos reais  
+✔ Automação inteligente com IA, n8n e fluxos que reduzem trabalho manual  
+✔ Soluções completas em **C#/.NET**, do backend ao deploy  
+✔ UX/UI funcional, intuitiva e pensada para impactar o usuário final
 
 
 ## 💜 Obrigada pela visita!
