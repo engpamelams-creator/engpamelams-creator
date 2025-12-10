@@ -1,4 +1,10 @@
 <div align="center">
+  <img src="./assets/banner-pamela-ms.png" alt="Banner Pamela M.S - Full Stack Developer" width="100%" />
+</div>
+
+---
+
+<div align="center">
 
 # 🐼✨ Olá! Eu sou a **Pamela M.S.**
 ### <sub>Full Stack Developer — Python • C#/.NET • PHP/Laravel • IA & Automação</sub>
@@ -7,11 +13,14 @@
 
 <br>
 
-**“Construindo experiências digitais inteligentes, escaláveis e com impacto real.”**
+**“Transformo ideias em sistemas inteligentes, rápidos e prontos para escalar.”**
+
+Um pé no passado valorizando o código raiz.  
+Outro no futuro, construindo automação, IA e soluções que realmente entregam valor.
 
 ---
 
-## 💜 Conecte-se comigo
+## 💜 Onde me encontrar
 
 <a href="https://www.devpamelams.com.br">
   <img alt="Portfólio" src="https://img.shields.io/badge/Portfólio-1E1E2E?style=for-the-badge&logo=vercel&logoColor=white"/>
@@ -39,22 +48,23 @@
 
 ## 🧠 Sobre mim
 
-Sou **Desenvolvedora Full Stack**, atuando com  
+Sou **Desenvolvedora Full Stack** construindo soluções de ponta a ponta com:
+
 **Python (Django, FastAPI, Flask)** • **C#/.NET** • **PHP/Laravel** • **JavaScript/TypeScript**.
 
-Crio aplicações performáticas, escaláveis e centradas no usuário — do backend à experiência final.
+Crio aplicações performáticas, estáveis e centradas no usuário — combinando engenharia, design e automação.
 
 - 🎓 Graduanda em **Análise e Desenvolvimento de Sistemas**
-- 🤖 Especialista em **IA & Automação** (n8n, LLMs, integrações avançadas)
-- 👩‍💻 Experiência com APIs, arquitetura limpa e UX/UI
-- 🧩 Background em **Psicologia/ABA**, trazendo comunicação clara, visão humana e foco em usabilidade
+- 🤖 Especialista em **IA & Automação** (n8n, LLMs, pipelines avançados)
+- 👩‍💻 Experiência em APIs, arquitetura limpa e boas práticas de engenharia
+- 🧩 Background em **Psicologia/ABA**, trazendo visão humana e comunicação clara para produtos digitais
 
-Busco oportunidades em **Full Stack, Back-end, Python, C#/.NET e IA/Automação**.
+Atualmente busco oportunidades em **Full Stack • Back-End • Python • C#/.NET • IA/Automação**.
 
 ---
 
-## 🎨 Paleta de Cores do Perfil  
-*(ideal para harmonia em dark/light)*
+## 🎨 Paleta de Identidade Visual  
+*(para manter harmonia no dark/light mode)*
 
 | Cor            | Hex        | Uso                         |
 |----------------|-----------|-----------------------------|
@@ -69,7 +79,6 @@ Busco oportunidades em **Full Stack, Back-end, Python, C#/.NET e IA/Automação*
 ## 🛠️ Stack Tecnológica
 
 ### **Back-End**
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40"/>
@@ -81,7 +90,6 @@ Busco oportunidades em **Full Stack, Back-end, Python, C#/.NET e IA/Automação*
 ---
 
 ### **Front-End**
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
@@ -95,7 +103,6 @@ Busco oportunidades em **Full Stack, Back-end, Python, C#/.NET e IA/Automação*
 ---
 
 ### **Banco & Cloud**
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
@@ -106,28 +113,16 @@ Busco oportunidades em **Full Stack, Back-end, Python, C#/.NET e IA/Automação*
 
 ## ⚡ Destaques do momento
 
-### 🧩 Minhas áreas de domínio
-✔ Desenvolvimento Full Stack
-✔ APIs & Integrações
-✔ Arquitetura Limpa & Boas Práticas
-✔ Automação com IA & n8n
-✔ UX/UI centrado no usuário final
-
-shell
-Copiar código
-
-### 🚀 Estudando agora
-• C#/.NET 8 Avançado
-• Python para IA e Agents
-• Docker + Deploys multi-stack
-• Arquitetura escalável para SaaS
-
-yaml
-Copiar código
+### 🧩 O que eu entrego
+✔ Desenvolvimento Full Stack moderno  
+✔ Arquitetura limpa e escalável  
+✔ Integrações e APIs robustas  
+✔ Automação com IA e n8n  
+✔ UX/UI funcional e centrada no usuário  
 
 ---
 
 ## 💜 Obrigada pela visita!
-**Sinta-se à vontade para conectar, colaborar ou explorar meus repositórios.**
+**Explore meus repositórios, conecte-se comigo ou só diga oi — portas sempre abertas.**
 
 </div>
