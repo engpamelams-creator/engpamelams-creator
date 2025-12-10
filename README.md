@@ -3,10 +3,7 @@
 </div>
 
 <div align="center">
-### <sub>Full Stack Developer — Python • C#/.NET • PHP/Laravel • IA & Automação</sub>
-
-<img src="https://i.imgur.com/ji0KfCj.gif" width="320" alt="Panda programando"/>
-
+ <sub>Full Stack Developer — Python • C#/.NET • PHP/Laravel • IA & Automação</sub>
 <br>
 
 **“Transformo ideias em sistemas inteligentes, rápidos e prontos para escalar.”**
@@ -57,7 +54,7 @@ Crio aplicações performáticas, estáveis e centradas no usuário — combinan
 
 Atualmente busco oportunidades em **Full Stack • Back-End • Python • C#/.NET • IA/Automação**.
 
----
+
 
 ## 🎨 Paleta de Identidade Visual  
 *(para manter harmonia no dark/light mode)*
@@ -70,7 +67,7 @@ Atualmente busco oportunidades em **Full Stack • Back-End • Python • C#/.N
 | Verde menta    | `#A6E3A1` | sucesso / indicadores       |
 | Cinza carvão   | `#0D1117` | contraste / fundo alternado |
 
----
+
 
 ## 🛠️ Stack Tecnológica
 
@@ -83,7 +80,6 @@ Atualmente busco oportunidades em **Full Stack • Back-End • Python • C#/.N
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40"/>
 
----
 
 ### **Front-End**
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
@@ -96,7 +92,7 @@ Atualmente busco oportunidades em **Full Stack • Back-End • Python • C#/.N
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40"/>
 
----
+
 
 ### **Banco & Cloud**
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
@@ -105,7 +101,7 @@ Atualmente busco oportunidades em **Full Stack • Back-End • Python • C#/.N
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40"/>
 
----
+
 
 ## ⚡ Destaques do momento
 
@@ -116,7 +112,7 @@ Atualmente busco oportunidades em **Full Stack • Back-End • Python • C#/.N
 ✔ Automação com IA e n8n  
 ✔ UX/UI funcional e centrada no usuário  
 
----
+
 
 ## 💜 Obrigada pela visita!
 **Explore meus repositórios, conecte-se comigo ou só diga oi — portas sempre abertas.**
