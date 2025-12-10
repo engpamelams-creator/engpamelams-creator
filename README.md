@@ -55,20 +55,6 @@ Crio aplicações performáticas, estáveis e centradas no usuário — combinan
 Atualmente busco oportunidades em **Full Stack • Back-End • Python • C#/.NET • IA/Automação**.
 
 
-
-## 🎨 Paleta de Identidade Visual  
-*(para manter harmonia no dark/light mode)*
-
-| Cor            | Hex        | Uso                         |
-|----------------|-----------|-----------------------------|
-| Roxo profundo  | `#1E1E2E` | bases / seções / bordas     |
-| Azul neon      | `#8CAAEE` | destaques                   |
-| Rosa suave     | `#F5C2E7` | detalhes femininos          |
-| Verde menta    | `#A6E3A1` | sucesso / indicadores       |
-| Cinza carvão   | `#0D1117` | contraste / fundo alternado |
-
-
-
 ## 🛠️ Stack Tecnológica
 
 ### **Back-End**
