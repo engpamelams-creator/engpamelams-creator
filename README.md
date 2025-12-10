@@ -1,11 +1,8 @@
 <div align="center">
   <img width="1188" height="297" alt="art github" src="https://github.com/user-attachments/assets/01706bd9-2ede-4d8c-8336-361f60def11e" />
 </div>
----
 
 <div align="center">
-
-# 🐼✨ Olá! Eu sou a **Pamela M.S.**
 ### <sub>Full Stack Developer — Python • C#/.NET • PHP/Laravel • IA & Automação</sub>
 
 <img src="https://i.imgur.com/ji0KfCj.gif" width="320" alt="Panda programando"/>
