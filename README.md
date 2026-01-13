@@ -4,7 +4,6 @@
 
 <br />
   
-# 👩‍💻 Pamela M.S.
 ### PcD (Autista) | Desenvolvedora Full Stack | Java (Spring Boot) & .NET (C#) | React | Mobile (Flutter & React Native) | SQL & Docker
   
  
