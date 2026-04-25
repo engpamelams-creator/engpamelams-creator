@@ -26,7 +26,7 @@
 
 ## 🚀 Sobre Mim (The Dev Persona)
 
-Graduanda em **Engenharia de Software** e Desenvolvedora Full Stack, concentro minha atuação técnica na construção de soluções Enterprise utilizando **Java (Spring Boot) e .NET**. 
+Graduanda em **Análise e Desenvolvimento de Sistemas (ADS)** e Desenvolvedora Full Stack, concentro minha atuação técnica na construção de soluções Enterprise utilizando **Java (Spring Boot) e .NET**. 
 
 Atuo na análise e desenvolvimento de softwares multiplataforma (**Web, Mobile e Desktop**), aplicando rigorosamente **Arquitetura Limpa (Clean Code)** e **Design Patterns** para assegurar a escalabilidade e manutenibilidade do código. Meu foco é projetar ecossistemas que integram **APIs robustas** — fundamentadas em princípios de cibersegurança — a interfaces de **UI/UX** fluida, validando a qualidade da entrega através de **QA e testes** para garantir performance em todo o ciclo de vida da aplicação.
 
